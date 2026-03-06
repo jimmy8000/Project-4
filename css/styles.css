@@ -1,0 +1,10 @@
+body { background: #fafafa; }
+    .resume-name { font-size: 2rem; font-weight: bold; margin-bottom: 0.25rem; }
+    .section-title { border-bottom: 2px solid #1779ba; padding-bottom: 0.4rem; margin-bottom: 1rem; }
+    .proj-title { font-weight: bold; margin-bottom: 0.25rem; }
+    .top-bar, .top-bar ul { background: #1779ba; }
+    .top-bar-title a, .top-bar ul a { color: #fff; }
+    .top-bar ul li.active a { background: #0a5694; }
+    .edu-block { margin-bottom: 1rem; }
+    .page-wrap { padding: 2rem 0 4rem; }
+    .label { margin-right: 4px; margin-bottom: 4px; display: inline-block; }
